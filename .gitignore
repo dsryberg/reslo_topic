@@ -1,3 +1,10 @@
+# Folders to ignore
+doctrees/
+
+
+####################################################
+# Python Ignore
+####################################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -9,7 +16,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-build/
+#build/     # removed in order to alloy sphinx build to be stored 
 develop-eggs/
 dist/
 downloads/

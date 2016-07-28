@@ -1,0 +1,1 @@
+Search.setIndex({filenames:["index"],titles:["Welcome to reslo_topic&#8217;s documentation!"],objtypes:{},titleterms:{document:0,indic:0,tabl:0,reslo_top:0,welcom:0},terms:{search:0,modul:0,content:0,index:0,page:0},objects:{},objnames:{},envversion:43})
