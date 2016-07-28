@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to reslo_topic's documentation!
+Table of Contents
 =======================================
 
 Contents:
@@ -11,16 +11,15 @@ Contents:
 .. toctree::
    :maxdepth: 2
    :glob:
+   :numbered:
 
-   hats/*
-   bats/*
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   00_abstract/*
+   01_introduction/*
+   02_background/*
+   03_data_foundations/*
+   04_model/*
+   05_scenario/*
+   06_results/*
+   07_conclusions/*
+   08_references/*
+   09_appendix/*
