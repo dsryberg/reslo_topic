@@ -1,8 +1,0 @@
-Reference List
-----------------
-
-:term:`Industry usage - Oil refining`
-
-.. [E4Tech-2015] ENTER E4TECH REPORT INFO HERE 
-
-.. [Caumon-2015] P. Caumon et al. Flexible hydrogen production implementation in the French power system: Expected impacts at the French and European levels. (REDO THIS CITATION)
